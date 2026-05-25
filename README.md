@@ -24,7 +24,31 @@ By the end of the course, you will be able to create, customize, and publish int
 | ---           | ---            | ---          | ---               |
 | Session 3     | 13:00–13:50    | 18:00–18:50  | 19:00–19:50       | 
 | Short Break   | 13:50–14:10    | 18:50–19:10  | 19:50–20:10       | 
-| Session 34    | 14:10–15:00    | 19:10–20:00  | 20:10–21:00       |
+| Session 4     | 14:10–15:00    | 19:10–20:00  | 20:10–21:00       |
+
+
+Sessions:
+
+Day 1 (Wednesday 27th)
+1 - Introduction to tmap
+2 - The interactive view mode
+3 - Legends and other map components
+4 - Layer groups and controls
+
+
+Day 2 (Thursday 28th)
+5 - Review of exercises
+6 - Interactive features (tooltips and popups)
+7 - Introduction to tmap.mapgl
+8 - 3D maps and high-performance web maps
+
+
+Day 3 (Friday 29th)
+9 – Review of exercises
+10 - Exporting and sharing interactive maps
+11 - Integrating tmap with Shiny dashboards
+12 - Putting it all together: building a complete interactive map application
+
 
 
 ## Most important resources
