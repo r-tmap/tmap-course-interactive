@@ -16,38 +16,41 @@ By the end of the course, you will be able to create, customize, and publish int
 
 |               | New York (EDT) | London (BST) | Amsterdam (CEST)  | 
 |:--------------|:---------------|:-------------|:------------------|
-| Session 1     | 10:00–10:50    | 15:00–15:50  | 16:00–16:50       |
+| Session       | 10:00–10:50    | 15:00–15:50  | 16:00–16:50       |
 | Short Break   | 10:50–11:10    | 15:50–16:10  | 16:50–17:10       | 
-| Session 2     | 11:10–12:00    | 16:10–17:00  | 17:10–18:00       |
+| Session       | 11:10–12:00    | 16:10–17:00  | 17:10–18:00       |
 | ---           | ---            | ---          | ---               | 
 | Long Break    | 12:00–13:00    | 17:00–18:00  | 18:00–19:00       | 
 | ---           | ---            | ---          | ---               |
-| Session 3     | 13:00–13:50    | 18:00–18:50  | 19:00–19:50       | 
+| Session       | 13:00–13:50    | 18:00–18:50  | 19:00–19:50       | 
 | Short Break   | 13:50–14:10    | 18:50–19:10  | 19:50–20:10       | 
-| Session 4     | 14:10–15:00    | 19:10–20:00  | 20:10–21:00       |
+| Session       | 14:10–15:00    | 19:10–20:00  | 20:10–21:00       |
 
 
-Sessions:
+## Sessions
 
 Day 1 (Wednesday 27th)
-1 - Introduction to tmap
-2 - The interactive view mode
-3 - Legends and other map components
-4 - Layer groups and controls
+
+1. Introduction to tmap
+2. The interactive view mode
+3. Legends and other map components
+4. Layer groups and controls
 
 
 Day 2 (Thursday 28th)
-5 - Review of exercises
-6 - Interactive features (tooltips and popups)
-7 - Introduction to tmap.mapgl
-8 - 3D maps and high-performance web maps
+
+5. Review of exercises
+6. Interactive features (tooltips and popups)
+7. Introduction to tmap.mapgl
+8. 3D maps and high-performance web maps
 
 
 Day 3 (Friday 29th)
-9 – Review of exercises
-10 - Exporting and sharing interactive maps
-11 - Integrating tmap with Shiny dashboards
-12 - Putting it all together: building a complete interactive map application
+
+9.  Review of exercises
+10. Exporting and sharing interactive maps
+11. Integrating tmap with Shiny dashboards
+12. Putting it all together: building a complete interactive map application
 
 
 
