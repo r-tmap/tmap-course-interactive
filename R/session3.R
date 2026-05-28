@@ -69,3 +69,47 @@ tm_shape(NLD_muni) +
 	tm_title("Dutch municipalities",
 			 position = c("left", "top")) +
 	tm_scalebar(position = c("left", "bottom"))
+
+tmap_mode("plot")
+tm_shape(World) +
+	tm_polygons()
+
+# make new style
+
+tmap_options(
+	bg.color = "steelblue",
+	outer.bg = TRUE,
+	outer.bg.color = "salmon",
+	frame.color = "purple3",
+	frame.lwd = 5,
+	compass.type = "8star",
+	legend.bg.color = "gold",
+	legend.position = tm_pos_in(pos.h = "left", pos.v = "top")
+)
+
+tm_shape(World) +
+	tm_polygons()
+
+tmap_options_save("fancy")
+
+# switch styles
+tmap_style("cobalt")
+
+tm_shape(World) +
+	tm_polygons()
+
+tmap_style("fancy")
+
+tm_shape(World) +
+	tm_polygons()
+
+# save the style for later
+opt = tmap_options()
+
+saveRDS(opt, "tmap_options.rds")
+
+# new session
+opt = readRDS("tmap_options.rds")
+
+# reload the options
+tmap_options(opt)
