@@ -14,22 +14,22 @@ By the end of the course, you will be able to create, customize, and publish int
 
 ## Schedule
 
-|               | New York (EDT) | London (BST) | Amsterdam (CEST)  | 
-|:--------------|:---------------|:-------------|:------------------|
-| Session       | 10:00–10:50    | 15:00–15:50  | 16:00–16:50       |
-| Short Break   | 10:50–11:10    | 15:50–16:10  | 16:50–17:10       | 
-| Session       | 11:10–12:00    | 16:10–17:00  | 17:10–18:00       |
-| ---           | ---            | ---          | ---               | 
-| Long Break    | 12:00–13:00    | 17:00–18:00  | 18:00–19:00       | 
-| ---           | ---            | ---          | ---               |
-| Session       | 13:00–13:50    | 18:00–18:50  | 19:00–19:50       | 
-| Short Break   | 13:50–14:10    | 18:50–19:10  | 19:50–20:10       | 
-| Session       | 14:10–15:00    | 19:10–20:00  | 20:10–21:00       |
 
+| | New York (EDT) | London (BST) | Amsterdam (CEST) |
+|:--------------|:---------------|:-------------|:-----------------|
+| Session | 08:00–08:50 | 13:00–13:50 | 14:00–14:50 |
+| Short Break | 08:50–09:10 | 13:50–14:10 | 14:50–15:10 |
+| Session | 09:10–10:00 | 14:10–15:00 | 15:10–16:00 |
+| --- | --- | --- | --- |
+| Long Break | 10:00–11:00 | 15:00–16:00 | 16:00–17:00 |
+| --- | --- | --- | --- |
+| Session | 11:00–11:50 | 16:00–16:50 | 17:00–17:50 |
+| Short Break | 11:50–12:10 | 16:50–17:10 | 17:50–18:10 |
+| Session | 12:10–13:00 | 17:10–18:00 | 18:10–19:00 |
 
 ## Sessions
 
-Day 1 (Wednesday 27th)
+Day 1 (Wednesday 3rd of June)
 
 1. Introduction to tmap <!--[Slides](https://10mapz.com/tmap_course_interactive/session_01_intro_tmap.html) -->
 2. The interactive view mode <!--[Slides](https://10mapz.com/tmap_course_interactive/session_02_interactive_view.html) -->
@@ -39,7 +39,7 @@ Day 1 (Wednesday 27th)
 <!--[Day 1 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1.html) -->
 <!--[Day 1 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1_solutions.html) -->
 
-Day 2 (Thursday 28th)
+Day 2 (Thursday 4th of June)
 
 5. Review of exercises
 6. Interactive features (tooltips and popups) <!--[Slides](https://10mapz.com/tmap_course_interactive/session_06_interactive_features.html) -->
@@ -49,7 +49,7 @@ Day 2 (Thursday 28th)
 <!--[Day 2 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2.html) -->
 <!--[Day 2 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2_solutions.html) -->
 
-Day 3 (Friday 29th)
+Day 3 (Friday 5th of June)
 
 9. Review of exercises
 10. Exporting and sharing interactive maps <!--[Slides](https://10mapz.com/tmap_course_interactive/session_10_export.html) -->
