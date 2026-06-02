@@ -31,30 +31,30 @@ By the end of the course, you will be able to create, customize, and publish int
 
 Day 1 (Wednesday 27th)
 
-1. Introduction to tmap [Slides](https://10mapz.com/tmap_course_interactive/session_01_intro_tmap.html)
-2. The interactive view mode [Slides](https://10mapz.com/tmap_course_interactive/session_02_interactive_view.html)
-3. Legends and other map components [Slides](https://10mapz.com/tmap_course_interactive/session_03_legends_components.html)
-4. Layer groups and controls [Slides](https://10mapz.com/tmap_course_interactive/session_04_layer_groups.html)
+1. Introduction to tmap <!--[Slides](https://10mapz.com/tmap_course_interactive/session_01_intro_tmap.html) -->
+2. The interactive view mode <!--[Slides](https://10mapz.com/tmap_course_interactive/session_02_interactive_view.html) -->
+3. Legends and other map components <!--[Slides](https://10mapz.com/tmap_course_interactive/session_03_legends_components.html) -->
+4. Layer groups and controls <!--[Slides](https://10mapz.com/tmap_course_interactive/session_04_layer_groups.html) -->
 
-[Day 1 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1.html)
-[Day 1 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1_solutions.html)
+<!--[Day 1 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1.html) -->
+<!--[Day 1 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1_solutions.html) -->
 
 Day 2 (Thursday 28th)
 
 5. Review of exercises
-6. Interactive features (tooltips and popups) [Slides](https://10mapz.com/tmap_course_interactive/session_06_interactive_features.html)
-7. Introduction to tmap.mapgl [Slides](https://10mapz.com/tmap_course_interactive/session_07_tmap_mapgl.html)
-8. 3D maps and high-performance web maps [Slides](https://10mapz.com/tmap_course_interactive/session_08_3d_highperf.html)
+6. Interactive features (tooltips and popups) <!--[Slides](https://10mapz.com/tmap_course_interactive/session_06_interactive_features.html) -->
+7. Introduction to tmap.mapgl <!--[Slides](https://10mapz.com/tmap_course_interactive/session_07_tmap_mapgl.html) -->
+8. 3D maps and high-performance web maps <!--[Slides](https://10mapz.com/tmap_course_interactive/session_08_3d_highperf.html) -->
 
-[Day 2 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2.html)
-[Day 2 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2_solutions.html)
+<!--[Day 2 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2.html) -->
+<!--[Day 2 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2_solutions.html) -->
 
 Day 3 (Friday 29th)
 
 9. Review of exercises
-10. Exporting and sharing interactive maps [Slides](https://10mapz.com/tmap_course_interactive/session_10_export.html)
-11. Integrating tmap with Shiny dashboards [Slides](https://10mapz.com/tmap_course_interactive/session_11_shiny.html)
-12. Putting it all together: building a complete interactive map application [Slides](https://10mapz.com/tmap_course_interactive/session_12_putting_together)
+10. Exporting and sharing interactive maps <!--[Slides](https://10mapz.com/tmap_course_interactive/session_10_export.html) -->
+11. Integrating tmap with Shiny dashboards <!--[Slides](https://10mapz.com/tmap_course_interactive/session_11_shiny.html) -->
+12. Putting it all together: building a complete interactive map application <!--[Slides](https://10mapz.com/tmap_course_interactive/session_12_putting_together) -->
 
 
 
