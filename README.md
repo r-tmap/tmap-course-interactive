@@ -36,7 +36,7 @@ Day 1 (Wednesday 3rd of June)
 3. Legends and other map components [Slides](https://10mapz.com/tmap_course_interactive/session_03_legends_components.html)
 4. Layer groups and controls [Slides](https://10mapz.com/tmap_course_interactive/session_04_layer_groups.html)
 
-<!--[Day 1 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1.html) -->
+[Day 1 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1.html)
 <!--[Day 1 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day1_solutions.html) -->
 
 Day 2 (Thursday 4th of June)
