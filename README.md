@@ -32,7 +32,7 @@ By the end of the course, you will be able to create, customize, and publish int
 Day 1 (Wednesday 3rd of June)
 
 1. Introduction to tmap [Slides](https://10mapz.com/tmap_course_interactive/session_01_intro_tmap.html)
-2. The interactive view mode <!--[Slides](https://10mapz.com/tmap_course_interactive/session_02_interactive_view.html) -->
+2. The interactive view mode [Slides](https://10mapz.com/tmap_course_interactive/session_02_interactive_view.html)
 3. Legends and other map components <!--[Slides](https://10mapz.com/tmap_course_interactive/session_03_legends_components.html) -->
 4. Layer groups and controls <!--[Slides](https://10mapz.com/tmap_course_interactive/session_04_layer_groups.html) -->
 
