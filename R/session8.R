@@ -118,3 +118,9 @@ tm_shape(metro) +
 			   col = NULL)
 
 
+
+library(tmap.sources)
+tmap_src_overture()
+
+tm_shape(metro, bbox = "New York") +
+	tm_bubbles(size = "pop2020")
