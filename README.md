@@ -43,8 +43,8 @@ Day 2 (Thursday 4th of June)
 
 5. Review of exercises
 6. Interactive features (tooltips and popups) [Slides](https://10mapz.com/tmap_course_interactive/session_06_interactive_features.html)
-7. Introduction to tmap.mapgl <!--[Slides](https://10mapz.com/tmap_course_interactive/session_07_tmap_mapgl.html) -->
-8. 3D maps and high-performance web maps <!--[Slides](https://10mapz.com/tmap_course_interactive/session_08_3d_highperf.html) -->
+7. Introduction to tmap.mapgl [Slides](https://10mapz.com/tmap_course_interactive/session_07_tmap_mapgl.html)
+8. 3D maps and high-performance web maps [Slides](https://10mapz.com/tmap_course_interactive/session_08_3d_highperf.html)
 
 <!--[Day 2 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2.html) -->
 <!--[Day 2 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2_solutions.html) -->
