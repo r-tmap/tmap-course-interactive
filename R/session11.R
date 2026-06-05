@@ -50,3 +50,28 @@ server <- function(input, output) {
 }
 
 shinyApp(ui, server)
+
+
+library(shiny)
+library(tmap)
+
+tmap_mode("view")
+
+pals = c(HPI = "brewer.blues", well_being = "brewer.purples", press = "brewer.greens", economy = "brewer.set3")
+
+ui <- fluidPage(
+	tmapOutput("map", height = 800),
+	radioButtons("var", label = "Variable", choices = c("Happy Planet Index" = "HPI", "Well being" = "well_being", "Press freedom" = "press", "Economy" = "economy"))
+)
+
+server <- function(input, output) {
+
+	output$map <- renderTmap({
+		scale = tm_scale(values = unname(pals[input$var]))
+		tm_shape(World) +
+			tm_polygons(fill = input$var,
+						fill.scale = scale)
+	})
+}
+
+shinyApp(ui, server)
