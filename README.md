@@ -53,8 +53,8 @@ Day 3 (Friday 5th of June)
 
 9. Review of exercises
 10. Exporting and sharing interactive maps [Slides](https://10mapz.com/tmap_course_interactive/session_10_export.html)
-11. Integrating tmap with Shiny dashboards <!--[Slides](https://10mapz.com/tmap_course_interactive/session_11_shiny.html) -->
-12. Putting it all together: building a complete interactive map application <!--[Slides](https://10mapz.com/tmap_course_interactive/session_12_putting_together) -->
+11. Integrating tmap with Shiny dashboards [Slides](https://10mapz.com/tmap_course_interactive/session_11_shiny.html)
+12. Putting it all together: building a complete interactive map application [Slides](https://10mapz.com/tmap_course_interactive/session_12_putting_together)
 
 
 
