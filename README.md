@@ -47,12 +47,13 @@ Day 2 (Thursday 4th of June)
 8. 3D maps and high-performance web maps [Slides](https://10mapz.com/tmap_course_interactive/session_08_3d_highperf.html)
 
 [Day 2 exercises](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2.html)
-<!--[Day 2 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2_solutions.html) -->
+[Day 2 solutions](https://10mapz.com/tmap_course_interactive/tmap_course_interactive_ex_day2_solutions.html)
 
 Day 3 (Friday 5th of June)
 
 9. Review of exercises
-10. Exporting and sharing interactive maps <!--[Slides](https://10mapz.com/tmap_course_interactive/session_10_export.html) -->
+10. Exporting and sharing interactive maps [Slides](https://10mapz.com/tmap_course_interactive/session_10_export.html)
+
 11. Integrating tmap with Shiny dashboards <!--[Slides](https://10mapz.com/tmap_course_interactive/session_11_shiny.html) -->
 12. Putting it all together: building a complete interactive map application <!--[Slides](https://10mapz.com/tmap_course_interactive/session_12_putting_together) -->
 
